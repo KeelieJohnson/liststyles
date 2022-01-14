@@ -1,0 +1,18 @@
+ul.squares{ 
+    list-style-type: square;}
+ol{
+    list-style-type: upper-alpha;
+}
+ul.circle{ 
+    list-style-type: circle;}
+ul.shows{
+    list-style-type: upper-roman ;
+}
+ul.randomstuff{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+ul.friendsig{
+    list-style-image: linear-gradient(to left bottom, purple, white);
+    list-style-position: inside;
+}
